@@ -1,0 +1,19 @@
+# 1 
+python==3.8
+
+# 2: conda install pytorch=1.8.1 torchvision=0.9.1 cudatoolkit=10.1 cudnn -c https://mirrors.aliyun.com/anaconda/cloud/pytorch/linux-64/
+pytorch==1.8.1+cu101
+torchvision==0.9.1+cu101
+cudatoolkit==10.1
+cudnn==7.6.5
+
+# 3: pip install mmcv-full==1.6.1 -f https://download.openmmlab.com/mmcv/dist/cu101/torch1.8.0/index.html
+mmcv-full==1.6.1
+
+# 4: pip install mmpose pandas requests easydict pynvml tqdm
+mmpose
+pandas
+requests
+easydict
+pynvml
+tqdm

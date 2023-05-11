@@ -1,0 +1,4 @@
+安装：参考requirement.txt
+运行：python connector_mp.py --block --port [port]
+demo：python client --port [port] --src [src]
+[port]替换为运行端口号，[src]替换为文件夹路径，demo会读取文件夹下所有文件，并运行行为分析。[src]文件夹下应仅包含图片文件

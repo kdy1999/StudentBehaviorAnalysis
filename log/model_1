@@ -1,0 +1,162 @@
+2023-02-14 16:42:51,975 - model_1 - INFO - change max_bz to: 1
+2023-02-14 16:42:51,976 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-14 16:42:51,976 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-14 16:42:51,976 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/6.jpg
+2023-02-14 16:42:53,051 - model_1 - INFO - Done. (1.075s)
+2023-02-14 16:42:53,100 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/6.jpg
+2023-02-14 16:42:53,101 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/6.jpg']
+2023-02-14 17:07:18,528 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-14 17:07:18,528 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-14 17:07:18,528 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-14 17:07:18,570 - model_1 - INFO - Done. (0.042s)
+2023-02-14 17:07:18,570 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-14 17:07:18,571 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-14 17:08:40,942 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-14 17:08:40,942 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-14 17:08:40,942 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-14 17:08:40,985 - model_1 - INFO - Done. (0.043s)
+2023-02-14 17:08:41,034 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-14 17:08:41,034 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-14 17:11:36,602 - model_1 - INFO - change max_bz to: 1
+2023-02-14 17:11:36,603 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-14 17:11:36,603 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-14 17:11:36,603 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-14 17:11:37,430 - model_1 - INFO - Done. (0.827s)
+2023-02-14 17:11:37,479 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-14 17:11:37,480 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 09:26:15,392 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 09:26:15,393 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 09:26:15,393 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 09:26:15,451 - model_1 - INFO - Done. (0.059s)
+2023-02-15 09:26:15,500 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 09:26:15,501 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 09:31:23,828 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 09:31:23,829 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 09:31:23,829 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 09:31:23,910 - model_1 - INFO - Done. (0.081s)
+2023-02-15 09:31:23,961 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 09:31:23,961 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 10:08:51,834 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 10:08:51,835 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 10:08:51,835 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:08:51,916 - model_1 - INFO - Done. (0.081s)
+2023-02-15 10:08:51,967 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:08:51,969 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 10:16:15,176 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 10:16:15,176 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 10:16:15,176 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:16:15,262 - model_1 - INFO - Done. (0.086s)
+2023-02-15 10:16:15,313 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:16:15,315 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 10:19:09,894 - model_1 - INFO - change max_bz to: 1
+2023-02-15 10:19:09,895 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 10:19:09,895 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 10:19:09,895 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:19:09,975 - model_1 - INFO - Done. (0.080s)
+2023-02-15 10:19:10,026 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:19:10,042 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 10:27:19,940 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 10:27:19,941 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 10:27:19,941 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:27:20,011 - model_1 - INFO - Done. (0.070s)
+2023-02-15 10:27:20,059 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:27:20,060 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 10:38:02,094 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 10:38:02,095 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 10:38:02,095 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:38:02,139 - model_1 - INFO - Done. (0.044s)
+2023-02-15 10:38:02,187 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:38:02,188 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 10:43:50,800 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 10:43:50,800 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 10:43:50,800 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:43:50,844 - model_1 - INFO - Done. (0.044s)
+2023-02-15 10:43:50,892 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:43:50,896 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 10:53:21,710 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 10:53:21,710 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 10:53:21,710 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:53:21,754 - model_1 - INFO - Done. (0.044s)
+2023-02-15 10:53:21,802 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:53:22,417 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 10:54:57,023 - model_1 - INFO - change max_bz to: 1
+2023-02-15 10:54:57,024 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 10:54:57,024 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 10:54:57,024 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:54:57,068 - model_1 - INFO - Done. (0.044s)
+2023-02-15 10:54:57,115 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:54:57,116 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 10:57:42,931 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 10:57:42,931 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 10:57:42,931 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:57:42,987 - model_1 - INFO - Done. (0.056s)
+2023-02-15 10:57:43,035 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:57:43,036 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 10:57:58,023 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 10:57:58,024 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 10:57:58,024 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:57:58,069 - model_1 - INFO - Done. (0.045s)
+2023-02-15 10:57:58,117 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 10:57:58,117 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 11:02:13,152 - model_1 - INFO - change max_bz to: 1
+2023-02-15 11:02:13,152 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 11:02:13,152 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 11:02:13,153 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:13,982 - model_1 - INFO - Done. (0.829s)
+2023-02-15 11:02:14,032 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:14,033 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 11:02:17,148 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 11:02:17,149 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 11:02:17,149 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:17,190 - model_1 - INFO - Done. (0.042s)
+2023-02-15 11:02:17,238 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:17,239 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 11:02:22,848 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 11:02:22,848 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 11:02:22,848 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:22,893 - model_1 - INFO - Done. (0.045s)
+2023-02-15 11:02:22,942 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:22,942 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 11:02:31,386 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 11:02:31,386 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 11:02:31,386 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:31,448 - model_1 - INFO - Done. (0.061s)
+2023-02-15 11:02:31,521 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:31,521 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 11:02:50,818 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 11:02:50,818 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 11:02:50,818 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:50,862 - model_1 - INFO - Done. (0.044s)
+2023-02-15 11:02:50,910 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:50,911 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 11:02:58,898 - model_1 - INFO - change max_bz to: 1
+2023-02-15 11:02:58,899 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 11:02:58,899 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 11:02:58,899 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:58,941 - model_1 - INFO - Done. (0.042s)
+2023-02-15 11:02:58,989 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:02:58,990 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 11:04:11,127 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 11:04:11,127 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 11:04:11,127 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:04:11,173 - model_1 - INFO - Done. (0.046s)
+2023-02-15 11:04:11,221 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:04:11,221 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 11:08:54,994 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 11:08:54,995 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 11:08:54,995 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:08:55,051 - model_1 - INFO - Done. (0.056s)
+2023-02-15 11:08:55,101 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:08:55,101 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 11:35:59,570 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 11:35:59,571 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 11:35:59,571 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:35:59,627 - model_1 - INFO - Done. (0.056s)
+2023-02-15 11:35:59,675 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 11:35:59,676 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
+2023-02-15 12:20:48,777 - model_1 - INFO - there are 0 images waiting to be processed
+2023-02-15 12:20:48,778 - model_1 - INFO - process 0 get inputs length: 1
+2023-02-15 12:20:48,778 - model_1 - INFO - get imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 12:20:48,898 - model_1 - INFO - Done. (0.120s)
+2023-02-15 12:20:48,950 - model_1 - INFO - finish processing imgs /home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg
+2023-02-15 12:20:48,950 - model_1 - INFO - ended result append ['/home/ai/StudentBehaviorAnalysis-v0.1.6/img/1.jpg']
